@@ -1,0 +1,31 @@
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\bin\Debug\shiftApp.exe.config
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\bin\Debug\shiftApp.exe
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\bin\Debug\shiftApp.pdb
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.csprojAssemblyReference.cache
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.Form1.resources
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.Properties.Resources.resources
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.csproj.GenerateResource.cache
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.csproj.CoreCompileInputs.cache
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.exe
+C:\Users\S.Apostolakopoulos\Desktop\shiftApp\shiftApp\obj\Debug\shiftApp.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\bin\Debug\shiftApp.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\bin\Debug\shiftApp.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\bin\Debug\shiftApp.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\InterProcessCommunication\shiftApp\shiftApp\obj\Debug\shiftApp.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\bin\Debug\shiftApp.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\bin\Debug\shiftApp.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\obj\Debug\shiftApp.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\bin\Debug\shiftApp.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\ShiftNumberApp\shiftApp\shiftApp\bin\Debug\shiftApp.pdb
